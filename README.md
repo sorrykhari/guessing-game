@@ -1,2 +1,2 @@
-# guessing-game
-simple numbers (1-100) guessing game.
+#Random Programming Exercises
+random programs I made in C/C++
